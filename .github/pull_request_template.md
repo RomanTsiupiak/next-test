@@ -1,10 +1,10 @@
 ### Description 📝
 
-In this PR, I've test
+In this PR, I've
 
 ### Changes ⏱️
 
-- 
+-
 
 ### How to test 🧪
 
